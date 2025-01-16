@@ -3511,8 +3511,5 @@ details-disclosure > details {
   } 
 
   .product-media-container.media-type-image.media-fit-contain.global-media-settings.gradient.constrain-height {
-    padding: 100 !important;        /* Remove any padding that could create extra space */
-    margin: 0 !important;         /* Remove any margin that could create extra space */
-    display: inline-block;        /* Ensure the container wraps tightly around the image */      
-    overflow: hidden; 
+    display: inline-block;
   }
