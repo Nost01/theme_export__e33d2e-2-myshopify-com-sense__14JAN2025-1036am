@@ -3517,5 +3517,9 @@ details-disclosure > details {
   }
 
   .footer-block.grid__item.footer-block--menu.scroll-trigger.animate--slide-in {
-    gap: 10px;
+    display: flex;            /* Enable flexbox layout */
+  justify-content: center;  /* Center the content horizontally */
+  gap: 10px;                /* Reduce the gap between the items */
+  width: 80%;               /* Set a smaller width for the container (adjust as needed) */
+  margin: 0 auto;
   }
