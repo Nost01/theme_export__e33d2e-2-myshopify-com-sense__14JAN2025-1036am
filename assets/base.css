@@ -3511,4 +3511,5 @@ details-disclosure > details {
 .product__modal-opener.product__modal-opener--image.no-js-hidden img {
   width: 100%;
   height: auto;
+  object-fit: cover;
 }
