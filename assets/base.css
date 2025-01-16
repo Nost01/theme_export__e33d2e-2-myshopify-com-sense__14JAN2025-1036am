@@ -3506,7 +3506,7 @@ details-disclosure > details {
     width: 200%;
   }
 
-  .footer__content-bottom-wrapper.page-width.footer__content-bottom-wrapper--center {
+  .footer__copyright.caption {
     margin-top: auto; /* Push the footer to the bottom */
     text-align: center; /* Center the text horizontally */
     width: 100%;
