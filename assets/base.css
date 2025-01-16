@@ -3510,6 +3510,7 @@ details-disclosure > details {
     text-align: center;
   }
 
-  .footer-block__details-content.list-unstyled {
+  .footer-block__details-content.list-unstyled li{
+    margin-bottom: 5px;
   }
 
