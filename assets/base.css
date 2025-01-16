@@ -3507,5 +3507,5 @@ details-disclosure > details {
   }
 
   .footer__content-bottom-wrapper.page-width.footer__content-bottom-wrapper--center {
-    
+    transform-origin: bottom center;
   }
