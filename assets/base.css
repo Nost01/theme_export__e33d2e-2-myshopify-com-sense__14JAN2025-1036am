@@ -3513,6 +3513,6 @@ details-disclosure > details {
   .footer-block__details-content.list-unstyled li{
     justify-content: center;
     width: 100%;
-    margin-bottom: -5px;
+    margin-bottom: -10px;
   }
 
