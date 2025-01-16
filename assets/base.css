@@ -3509,4 +3509,5 @@ details-disclosure > details {
 
   #ProductInfo-template--18546030313629__main {
     transform: scale(0.8);
+    overflow: hidden;
   }
