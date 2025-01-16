@@ -3510,7 +3510,7 @@ details-disclosure > details {
   } 
 
   .product-media-container.media-type-image.media-fit-contain.global-media-settings.gradient.constrain-height {
-    width: 100%;           /* Ensure the image fills the container width */
-    height: 100%;          /* Ensure the image fills the container height */
-    object-fit: cover;     /* Ensure the image covers the entire container */
+    padding: 0;           /* Ensure the image fills the container width */
+    margin: 0;          /* Ensure the image fills the container height */
+    border: none;     /* Ensure the image covers the entire container */
 }
