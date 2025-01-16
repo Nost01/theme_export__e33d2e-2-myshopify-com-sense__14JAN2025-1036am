@@ -3506,8 +3506,6 @@ details-disclosure > details {
     width: 200%;
   }
 
-  .footer__copyright.caption {
-    margin-top: auto; /* Push the footer to the bottom */
-    text-align: center; /* Center the text horizontally */
-    width: 100%;
+  footer__blocks-wrapper.grid.grid--1-col.grid--2-col.grid--4-col-tablet.grid--3-col-tablet.scroll-trigger.animate--slide-in {
+    transform-origin: center;
   }
