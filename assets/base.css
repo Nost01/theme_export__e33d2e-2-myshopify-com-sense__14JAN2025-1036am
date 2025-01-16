@@ -3507,6 +3507,6 @@ details-disclosure > details {
   }
 
   .footer-block.grid__item.footer-block--menu.scroll-trigger.animate--slide-in {
-    transform-origin: center;
+    text-align: center;
   }
 
