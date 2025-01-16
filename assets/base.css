@@ -3506,3 +3506,7 @@ details-disclosure > details {
   .product__info-wrapper.grid__item.scroll-trigger.animate--slide-in {
     transform: scale(0.8);
   }
+
+  #ProductInfo-template--18546030313629__main {
+    transform: scale(0.8);
+  }
