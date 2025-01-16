@@ -3507,10 +3507,3 @@ details-disclosure > details {
     transform: scale(0.8);
   }
 
-  #ProductInfo-template--18546030313629__main {
-    transform: scale(0.8);
-    transform-origin: center center;
-    overflow: hidden;
-    max-width: 100%; /* Prevent overflow */
-    max-height: 100%;
-  }
