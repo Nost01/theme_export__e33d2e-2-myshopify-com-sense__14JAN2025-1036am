@@ -3511,6 +3511,5 @@ details-disclosure > details {
   } 
 
   .product-media-container.media-type-image.media-fit-contain.global-media-settings.gradient.constrain-height {
-    --ratio: 0.8;
-    --preview-ratio: 0.8;
+    
   }
