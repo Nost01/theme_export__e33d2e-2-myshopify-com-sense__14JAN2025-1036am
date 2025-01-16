@@ -3504,3 +3504,7 @@ details-disclosure > details {
     transform-origin: top;
     overflow: hidden;
   }
+
+  .product__media.media.media--transparent {
+    transform: scale(0.8);
+  }
