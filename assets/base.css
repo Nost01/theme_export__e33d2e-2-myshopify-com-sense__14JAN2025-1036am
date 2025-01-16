@@ -3506,7 +3506,8 @@ details-disclosure > details {
     width: 200%;
   }
 
-  .footer-block__details-content.list-unstyled li{
+  .footer-block__details-content.list-unstyled {
     text-align: center;
+    margin-bottom: 5px;
   }
 
