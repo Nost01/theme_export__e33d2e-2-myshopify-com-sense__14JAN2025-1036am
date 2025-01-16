@@ -3500,5 +3500,5 @@ details-disclosure > details {
   }
 
   .gradient.animate--hover-vertical-lift {
-    transform: scale(0.8);
+    transform: scale(1.0);
   }
