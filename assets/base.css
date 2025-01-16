@@ -3511,9 +3511,8 @@ details-disclosure > details {
   } 
 
   .product-media-container.media-type-image.media-fit-contain.global-media-settings.gradient.constrain-height {
-    padding: 0 !important;        /* Remove any padding that could create extra space */
+    padding: 100 !important;        /* Remove any padding that could create extra space */
     margin: 0 !important;         /* Remove any margin that could create extra space */
-    display: inline-block;        /* Ensure the container wraps tightly around the image */
-    border: 2px solid #000;      /* Example border color */
+    display: inline-block;        /* Ensure the container wraps tightly around the image */      
     overflow: hidden; 
   }
