@@ -3511,5 +3511,6 @@ details-disclosure > details {
   } 
 
   product-media-container.media-type-image.media-fit-contain.global-media-settings.gradient.constrain-height {
-    transform: scale(0.8);
+    padding: 100;
+    margin: 100;
   }
