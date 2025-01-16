@@ -3499,14 +3499,6 @@ details-disclosure > details {
     --border-offset: 0px; /* Prevent the border from growing on buttons when this effect is on. */
   }
 
-  .gradient.animate--hover-vertical-lift {
-    transform: scale(1.0);
-  }
-
-  .product__info-wrapper.grid__item.scroll-trigger.animate--slide-in {
-    transform: scale(0.8);
-  }
-
   #ProductInfo-template--18546030313629__main {
     transform: scale(0.8);
     transform-origin: top;
