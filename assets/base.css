@@ -3510,7 +3510,7 @@ details-disclosure > details {
     transform: scale(0.8);
   } 
 
-  product-media-container.media-type-image.media-fit-contain.global-media-settings.gradient.constrain-height {
+  .product-media-container.media-type-image.media-fit-contain.global-media-settings.gradient.constrain-height {
     padding: 0 !important; 
     margin: 0 !important;
   }
