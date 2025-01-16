@@ -3508,8 +3508,8 @@ details-disclosure > details {
   .product__media.media.media--transparent {
     transform: scale(0.8);
   } 
-.product__modal-opener--image img{
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
+.product__modal-opener--image {
+  padding: 0;
+  margin: 0;
+  border: none;
 }
