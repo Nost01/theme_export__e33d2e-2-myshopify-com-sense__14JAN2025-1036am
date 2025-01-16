@@ -3502,3 +3502,7 @@ details-disclosure > details {
   .gradient.animate--hover-vertical-lift {
     transform: scale(1.0);
   }
+
+  .product__info-wrapper.grid__item.scroll-trigger.animate--slide-in {
+    transform: scale(0.8);
+  }
