@@ -3505,17 +3505,3 @@ details-disclosure > details {
     overflow: hidden;
   }
 
-  .product__media.media.media--transparent {
-    transform: scale(0.8);
-  } 
-
-  .product-media-container.media-type-image.media-fit-contain.global-media-settings.gradient.constrain-height {
-    padding: 0;           /* Ensure the image fills the container width */
-    margin: 0;          /* Ensure the image fills the container height */
-    border: none;     /* Ensure the image covers the entire container */
-}
-
-  .product-media-container {
-    padding: 0 !important;  /* Remove padding */
-    margin: 0 !important;   /* Remove margin */
-}
