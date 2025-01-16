@@ -3508,3 +3508,7 @@ details-disclosure > details {
   .product__media.media.media--transparent {
     transform: scale(0.8);
   } 
+
+  .product__modal-opener.product__modal-opener--image.no-js-hidden {
+    transform: scale(0.8);
+  }
