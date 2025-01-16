@@ -3506,4 +3506,6 @@ details-disclosure > details {
     width: 200%;
   }
 
-  
+  .footer__blocks-wrapper.grid.grid--1-col.grid--2-col.grid--4-col-tablet.grid--3-col-tablet.scroll-trigger.animate--slide-in {
+    transform-origin: center;
+  }
