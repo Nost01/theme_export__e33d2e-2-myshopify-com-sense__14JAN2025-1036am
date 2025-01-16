@@ -3509,3 +3509,12 @@ details-disclosure > details {
   .footer__content-bottom.scroll-trigger.animate--slide-in {
     transform-origin: bottom center;
   }
+
+  .footer__content-bottom scroll-trigger animate--slide-in {
+    text-align: center; /* Center the text horizontally */
+  width: 100%; /* Ensure the footer spans the full width */
+  margin-top: auto; /* Push the footer to the bottom */
+  position: absolute; /* Position the footer at the bottom */
+  bottom: 0; /* Align it to the bottom of the page */
+  left: 0; /* Ensure it spans the full width */
+  }
