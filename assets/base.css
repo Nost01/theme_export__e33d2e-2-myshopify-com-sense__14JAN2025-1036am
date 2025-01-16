@@ -3506,4 +3506,6 @@ details-disclosure > details {
     width: 200%;
   }
 
-  
+  .footer__content-bottom.scroll-trigger.animate--slide-in {
+    transform-origin: bottom center;
+  }
