@@ -3508,13 +3508,8 @@ details-disclosure > details {
   .product__media.media.media--transparent {
     transform: scale(0.8);
   } 
-.product__modal-opener--image {
-  padding: 0;
-  margin: 0;
-  border: none;
-}
 
-  .product__modal-opener--image img {
+  .product-media-container.media-type-image.media-fit-contain.global-media-settings.gradient.constrain-height {
     width: 100%;           /* Ensure the image fills the container width */
     height: 100%;          /* Ensure the image fills the container height */
     object-fit: cover;     /* Ensure the image covers the entire container */
