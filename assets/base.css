@@ -3516,6 +3516,6 @@ details-disclosure > details {
     margin-bottom: -10px;
   }
 
-  footer-block grid__item footer-block--menu scroll-trigger animate--slide-in {
+  .footer-block.grid__item.footer-block--menu.scroll-trigger.animate--slide-in {
     width: 50%;
   }
