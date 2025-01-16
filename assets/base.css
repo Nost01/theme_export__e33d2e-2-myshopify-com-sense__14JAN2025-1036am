@@ -3511,7 +3511,8 @@ details-disclosure > details {
   }
 
   .footer-block__details-content.list-unstyled li{
-    
+    margin-left: auto;
+    margin-right: auto;
     text-align: center;
   }
 
