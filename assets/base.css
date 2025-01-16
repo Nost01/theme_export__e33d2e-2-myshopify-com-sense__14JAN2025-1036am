@@ -3499,6 +3499,6 @@ details-disclosure > details {
     --border-offset: 0px; /* Prevent the border from growing on buttons when this effect is on. */
   }
 
-  .gradient animate--hover-vertical-lift {
+  .gradient.animate--hover-vertical-lift {
     transform: scale(0.8);
   }
