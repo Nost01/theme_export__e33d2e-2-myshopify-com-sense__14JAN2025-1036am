@@ -3503,6 +3503,7 @@ details-disclosure > details {
     transform: scale(0.8);
     transform-origin: top center;
     overflow: hidden;
+    width: 100%
   }
 
   .product__media.media.media--transparent {
