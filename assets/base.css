@@ -3511,5 +3511,7 @@ details-disclosure > details {
   } 
 
   .product-media-container.media-type-image.media-fit-contain.global-media-settings.gradient.constrain-height {
-    
+    padding: 0 !important;        
+    margin: 0 !important;         
+    display: inline-block;
   }
