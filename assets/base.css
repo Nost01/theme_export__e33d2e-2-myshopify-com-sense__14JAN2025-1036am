@@ -3505,3 +3505,7 @@ details-disclosure > details {
     overflow: hidden;
     width: 200%;
   }
+
+  .footer__content-bottom-wrapper.page-width.footer__content-bottom-wrapper--center {
+    
+  }
