@@ -3517,6 +3517,6 @@ details-disclosure > details {
   }
   
   .footer__blocks-wrapper.grid.grid--1-col.grid--2-col.grid--4-col-tablet.grid--3-col-tablet.scroll-trigger.animate--slide-in {
-    padding: -100px;
+    padding: -1000px;
     justify-content: center;
   }
