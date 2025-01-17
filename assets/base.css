@@ -3523,17 +3523,7 @@ details-disclosure > details {
     gap: 10px !important;
   }
 
-  .footer__content-top.page-width {
-    justify-content: center !important;
-    text-align: center !important;
-  }
-  
-  .footer-block.grid__item.footer-block--menu.scroll-trigger.animate--slide-in {
-    
-  }
-
-  /*footer-block__brand-info 
-  
-
-  footer-block grid__item footer-block--menu scroll-trigger animate--slide-in*/
+ #shopify-section-sections--18546029559965__footer {
+   justify-content: center !important;
+ }
  
