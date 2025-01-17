@@ -3517,13 +3517,8 @@ details-disclosure > details {
   }
   
   .footer__blocks-wrapper.grid.grid--1-col.grid--2-col.grid--4-col-tablet.grid--3-col-tablet.scroll-trigger.animate--slide-in {
-    justify-content: center !important;
-    text-align: center !important;
-    width: 500px;
-    gap: 10px !important;
+    
   }
 
- #shopify-section-sections--18546029559965__footer {
-   justify-content: center !important;
- }
+ 
  
