@@ -3521,7 +3521,7 @@ details-disclosure > details {
   }
 
   .footer-block.grid__item.footer-block--menu.scroll-trigger.animate--slide-in {
-    width: 80%;
+    width: -80%;
   }
 
   /*footer-block__brand-info 
