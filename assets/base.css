@@ -3521,12 +3521,11 @@ details-disclosure > details {
   }
 
   .footer-block.grid__item.footer-block--menu.scroll-trigger.animate--slide-in {
-    width: 100px;
+    width: 1000px;
   }
 
-  .footer-block__brand-info {
-    justify-content: bottom right;
-  }
+  /*footer-block__brand-info 
+  
 
-  footer-block grid__item footer-block--menu scroll-trigger animate--slide-in
+  footer-block grid__item footer-block--menu scroll-trigger animate--slide-in*/
  
