@@ -3526,10 +3526,15 @@ details-disclosure > details {
     padding-bottom: 20px;
   }
 
- /* 
-footer-block grid__item footer-block--menu scroll-trigger animate--slide-in
-footer-block grid__item footer-block--menu scroll-trigger animate--slide-in
+  .footer-bloc__brand-info {
+    justify-content: center;
+  }
 
+  .footer-block.grid__item.footer-block--menu.scroll-trigger.animate--slide-in {
+    
+  }
+
+ /* 
 
   */
  
