@@ -3521,7 +3521,6 @@ details-disclosure > details {
   }
 
   .footer-block.grid__item.footer-block--menu.scroll-trigger.animate--slide-in {
-    padding-right: 50%;
-    padding-left: 50%;
+    width: 50%;
   }
  
