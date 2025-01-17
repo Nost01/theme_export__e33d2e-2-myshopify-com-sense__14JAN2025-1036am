@@ -3523,7 +3523,11 @@ details-disclosure > details {
     gap: 10px !important;
   }
 
-
+  .footer__content-top.page-width {
+    justify-content: center !important;
+    text-align: center !important;
+  }
+  
   .footer-block.grid__item.footer-block--menu.scroll-trigger.animate--slide-in {
     
   }
