@@ -3517,14 +3517,12 @@ details-disclosure > details {
   }
   
   .footer__blocks-wrapper.grid.grid--1-col.grid--2-col.grid--4-col-tablet.grid--3-col-tablet.scroll-trigger.animate--slide-in {
-    justify-content: center;
+    justify-content: center !important;
+    text-align: center !important;
     width: 500px;
     gap: 10px !important;
   }
 
-  .footer__content-top.page-width {
-    justify-content: center;
-  }
 
   .footer-block.grid__item.footer-block--menu.scroll-trigger.animate--slide-in {
     
