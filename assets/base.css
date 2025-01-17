@@ -3524,9 +3524,12 @@ details-disclosure > details {
   }
 
   .footer-block__brand-info {
-    transform: translate(500px, 100px);
+    transform: translate(100px, 100px);
   }
 
+  .footer-block__heading.inline-richtext {
+    transform: translate(100px, 100px);
+  }
   
  /* 
 
