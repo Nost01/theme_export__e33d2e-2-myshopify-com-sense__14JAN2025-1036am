@@ -3529,6 +3529,7 @@ details-disclosure > details {
 
   .footer-block.grid__item.footer-block--menu.scroll-trigger.animate--slide-in {
     transform: translate(100px, 100px);
+    display: block;
   }
   
  /* 
