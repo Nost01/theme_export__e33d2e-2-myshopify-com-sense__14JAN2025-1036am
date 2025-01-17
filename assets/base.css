@@ -3521,7 +3521,7 @@ details-disclosure > details {
   }
 
   .footer-block.grid__item.footer-block--menu.scroll-trigger.animate--slide-in {
-    padding-left: 100px;  /* Reduce left padding */
-    padding-right: 100px;
+    padding-left: 1000px;  /* Reduce left padding */
+    padding-right: 1000px;
   }
  
