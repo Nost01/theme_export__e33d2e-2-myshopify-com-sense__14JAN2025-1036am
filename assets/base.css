@@ -3516,7 +3516,7 @@ details-disclosure > details {
     margin-bottom: -10px;
   }
   .footer-block.grid__item.footer-block--menu.scroll-trigger.animate--slide-in {
-    
+    width: 100px;
   }
   
   .footer__blocks-wrapper.grid.grid--1-col.grid--2-col.grid--4-col-tablet.grid--3-col-tablet.scroll-trigger.animate--slide-in {
@@ -3524,5 +3524,10 @@ details-disclosure > details {
     width: 100%;
   }
 
- 
+ /* 
+footer-block grid__item footer-block--menu scroll-trigger animate--slide-in
+footer-block grid__item footer-block--menu scroll-trigger animate--slide-in
+
+
+  */
  
