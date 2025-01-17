@@ -3526,8 +3526,8 @@ details-disclosure > details {
     padding-bottom: 20px;
   }
 
-  .footer-bloc__brand-info {
-    text-align: center;
+  .footer-block__brand-info {
+    justify-content: center;
   }
 
   .footer-block.grid__item.footer-block--menu.scroll-trigger.animate--slide-in {
