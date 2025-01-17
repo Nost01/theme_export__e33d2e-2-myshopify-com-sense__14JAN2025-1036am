@@ -3519,6 +3519,7 @@ details-disclosure > details {
   .footer__blocks-wrapper.grid.grid--1-col.grid--2-col.grid--4-col-tablet.grid--3-col-tablet.scroll-trigger.animate--slide-in {
     height: 100%;
     margin: 0;
+    width: 75%;
     display: flex;
     justify-content: center;
     align-items: center;
