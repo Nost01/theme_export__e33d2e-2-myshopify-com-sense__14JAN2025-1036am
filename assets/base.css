@@ -3524,11 +3524,11 @@ details-disclosure > details {
   }
 
   .footer-block__brand-info {
-    /*transform: translate(100px, 100px);*/
+    transform: translate(100px, 100px);
   }
 
   .footer-block.grid__item.footer-block--menu.scroll-trigger.animate--slide-in {
-    transform: translate(100px, 300px);
+    transform: translate(100px, 100px);
   }
 
  /* 
