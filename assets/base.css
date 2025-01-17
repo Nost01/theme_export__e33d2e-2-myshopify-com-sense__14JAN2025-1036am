@@ -3527,7 +3527,7 @@ details-disclosure > details {
   }
 
   .footer-bloc__brand-info {
-    justify-content: center;
+    text-align: center;
   }
 
   .footer-block.grid__item.footer-block--menu.scroll-trigger.animate--slide-in {
