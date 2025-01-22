@@ -3535,7 +3535,10 @@ details-disclosure > details {
     font-size: 20px;
   }
   
- /* 
-
-  */
+.footer-sections {
+  width: 400px;
+  background: white;
+  margin: 16px auto;
+  padding: 8px;
+}
  
