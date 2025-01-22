@@ -510,28 +510,6 @@
 }
 
 
-.footer__blocks-wrapper {
-  display: grid;
-  grid-template-columns: repeat(5, 1fr);
-  gap: 20px;
-}
 
-/* Target the social/follow us section and move it up */
-.footer-block--newsletter {
-  grid-column: 5 / 6;
-  margin-top: 0;
-}
-
-/* Make it responsive */
-@media screen and (max-width: 749px) {
-  .footer__blocks-wrapper {
-    grid-template-columns: 1fr;
-    gap: 30px;
-  }
-  
-  .footer-block--newsletter {
-    grid-column: 1;
-  }
-}
 
 
