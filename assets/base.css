@@ -3545,6 +3545,7 @@ details-disclosure > details {
 
 .footer-column {
   display: inline-block;
-  
+  zoom: 1; 
+  vertical-align: top;
 }
  
