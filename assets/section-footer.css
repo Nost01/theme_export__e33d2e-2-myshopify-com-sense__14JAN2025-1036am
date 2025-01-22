@@ -516,7 +516,7 @@
   grid-template-columns: repeat(4, 1fr);
   grid-template-areas: 
     "shop featured contact more"
-    "social social social social";
+    "social";
 }
 
 /* Target each block by its order in the DOM */
