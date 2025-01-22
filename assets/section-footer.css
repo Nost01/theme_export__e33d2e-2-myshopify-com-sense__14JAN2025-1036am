@@ -511,30 +511,3 @@
 
 
 
-.footer__blocks-wrapper {
-  display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  grid-template-areas: 
-    "shop featured contact more"
-    "social";
-}
-
-/* Target each block by its order in the DOM */
-.footer__blocks-wrapper > div:nth-child(1) { grid-area: shop; }
-.footer__blocks-wrapper > div:nth-child(2) { grid-area: featured; }
-.footer__blocks-wrapper > div:nth-child(3) { grid-area: contact; }
-.footer__blocks-wrapper > div:nth-child(4) { grid-area: more; }
-.footer__blocks-wrapper > div:nth-child(5) { grid-area: social; }
-
-/* Make it responsive */
-@media screen and (max-width: 75px) {
-  .footer__blocks-wrapper {
-    grid-template-columns: 1fr;
-    grid-template-areas: 
-      "shop"
-      "featured"
-      "contact"
-      "more"
-      "social";
-  }
-}
