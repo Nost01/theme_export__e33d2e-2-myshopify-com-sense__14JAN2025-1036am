@@ -3544,6 +3544,7 @@ details-disclosure > details {
 }
 
 .footer-column {
+  display: inline-block;
   
 }
  
