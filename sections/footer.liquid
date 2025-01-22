@@ -48,7 +48,7 @@
     or section.settings.enable_follow_on_shop
   -%}
     {%- unless only_empty_brand -%}
-      <div class="footer__content-top page-width">
+      <!-- <div class="footer__content-top page-width">
         {%- if section.blocks.size > 0 -%}
           {%- liquid
             if section.blocks.size == 9
@@ -58,8 +58,8 @@
             elsif section.blocks.size > 4
               assign footer_grid_class = 'grid--3-col-tablet'
             endif
-          -%}
-          <div
+          -%} 
+          <div 
             class="footer__blocks-wrapper grid grid--1-col grid--2-col grid--4-col-tablet {{ footer_grid_class }}{% if settings.animations_reveal_on_scroll %} scroll-trigger animate--slide-in{% endif %}"
             {% if settings.animations_reveal_on_scroll %}
               data-cascade
@@ -156,7 +156,59 @@
               </div>
             {%- endfor -%}
           </div>
-        {%- endif -%}
+        {%- endif -%} -->
+
+      <div class="footer-sections">
+  <div class="footer-column">
+    <h3>Shop</h3>
+    <ul>
+      <li>Ambient Lighting</li>
+      <li>Area Rugs & Carpets</li>
+      <li>Fine Art Prints</li>
+      <li>Cushions & Plush Toys</li>
+      <li>Bathroom Sets</li>
+      <li>Decorative Baskets & Bins</li>
+      <li>Candle Holders</li>
+    </ul>
+  </div>
+  <div class="footer-column">
+    <h3>Featured Collections</h3>
+    <ul>
+      <li>Lighting Collection</li>
+      <li>Décor</li>
+      <li>Fine Art Prints</li>
+      <li>Bedding</li>
+      <li>Rugs</li>
+    </ul>
+  </div>
+  <div class="footer-column">
+    <h3>Contact Us</h3>
+    <ul>
+      <li>Shipping</li>
+      <li>Return Policy</li>
+      <li>Refunds</li>
+      <li>FAQ</li>
+      <li>Contact Us</li>
+      <li>Brand Ambassador</li>
+    </ul>
+  </div>
+  <div class="footer-column">
+    <h3>More</h3>
+    <ul>
+      <li>Terms Of Service</li>
+      <li>About Us</li>
+      <li>Privacy Policy</li>
+    </ul>
+  </div>
+  <div class="footer-column">
+    <h3>Follow Us</h3>
+    <div class="social-icons">
+      <a href="#"><i class="icon-instagram"></i></a>
+      <a href="#"><i class="icon-tiktok"></i></a>
+      <a href="#"><i class="icon-pinterest"></i></a>
+    </div>
+  </div>
+</div>
 
         <div
           class="footer-block--newsletter{% if settings.animations_reveal_on_scroll %} scroll-trigger animate--slide-in{% endif %}"
