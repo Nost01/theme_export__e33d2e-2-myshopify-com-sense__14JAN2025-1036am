@@ -3548,7 +3548,7 @@ details-disclosure > details {
   display: inline-block;
   zoom: 1; 
   vertical-align: top;
-  padding-left: 40px;
-  padding-right: 40px;
+  padding-left: 25px;
+  padding-right: 25px;
 }
  
