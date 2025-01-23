@@ -3538,6 +3538,7 @@ details-disclosure > details {
   max-width: fit-content;
   margin-left: auto;
   margin-right: auto;
+  text-align: left;
 }
 
 .footer-column {
@@ -3547,11 +3548,13 @@ details-disclosure > details {
   padding-left: 25px;
   padding-right: 25px;
   font-size: 13px;
+  text-align: left;
   font-family: "Claire News Light";
 }
 
 .footer-list {
   font-family: "Claire News";
+  text-align: left;
 }
 
 .footer-header {
