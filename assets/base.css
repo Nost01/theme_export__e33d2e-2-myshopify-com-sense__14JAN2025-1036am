@@ -3555,7 +3555,7 @@ details-disclosure > details {
 .footer-list {
   font-family: "Claire News";
   text-align: left;
-  padding-left: -40px;
+  padding: 0px 0px 0px 0px;
 }
 
 .footer-header {
