@@ -3558,6 +3558,10 @@ details-disclosure > details {
   text-align: center;
 }
 
+.footer-column .footer-header {
+  list-style-type: none;
+}
+
 .icon-instagram {
   
 }
