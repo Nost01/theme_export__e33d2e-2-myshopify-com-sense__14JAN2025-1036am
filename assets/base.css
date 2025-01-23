@@ -3527,10 +3527,6 @@ details-disclosure > details {
     transform: translate(100px, 100px);
   }
 
-  .footer-block.grid__item.footer-block--menu.scroll-trigger.animate--slide-in {
-   
-  }
-
   .footer-block__heading.inline-richtext {
     font-size: 20px;
   }
