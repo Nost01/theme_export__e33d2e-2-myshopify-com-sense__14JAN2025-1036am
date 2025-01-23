@@ -27,7 +27,7 @@
   }
 {%- endstyle -%}
 
- <footer class="footer color-{{ section.settings.color_scheme }} gradient section-{{ section.id }}-padding">
+<!-- <footer class="footer color-{{ section.settings.color_scheme }} gradient section-{{ section.id }}-padding">
   {%- liquid
     assign has_social_icons = true
     if settings.social_facebook_link == blank and settings.social_instagram_link == blank and settings.social_youtube_link == blank and settings.social_tiktok_link == blank and settings.social_twitter_link == blank and settings.social_pinterest_link == blank and settings.social_snapchat_link == blank and settings.social_tumblr_link == blank and settings.social_vimeo_link == blank
@@ -156,8 +156,67 @@
               </div>
             {%- endfor -%}
           </div>
-        {%- endif -%} 
+        {%- endif -%} -->
 
+<div class="footer-sections">
+  <!-- Shop Section -->
+  <div class="footer-column">
+    <h3>Shop</h3>
+    <ul>
+      <li><a href="https://noviquedecor.com/collections/ambient-lighting">Ambient Lighting</a></li>
+      <li><a href="https://noviquedecor.com/collections/area-rugs-carpets">Area Rugs & Carpets</a></li>
+      <li><a href="https://noviquedecor.com/collections/fine-art-prints">Fine Art Prints</a></li>
+      <li><a href="https://noviquedecor.com/collections/cushions-plush-toys">Cushions & Plush Toys</a></li>
+      <li><a href="https://noviquedecor.com/collections/bathroom-sets">Bathroom Sets</a></li>
+      <li><a href="https://noviquedecor.com/collections/decorative-baskets-bins">Decorative Baskets & Bins</a></li>
+      <li><a href="https://noviquedecor.com/collections/candle-holders">Candle Holders</a></li>
+    </ul>
+  </div>
+
+  <!-- Featured Collections Section -->
+  <div class="footer-column">
+    <h3>Featured Collections</h3>
+    <ul>
+      <li><a href="https://noviquedecor.com/collections/lamps">Lighting Collection</a></li>
+      <li><a href="https://noviquedecor.com/collections/fine-art-prints">Fine Art Prints</a></li>
+      <li><a href="https://noviquedecor.com/collections/bedding">Bedding</a></li>
+      <li><a href="https://noviquedecor.com/collections/rugs-and-flooring">Rugs</a></li>
+    </ul>
+  </div>
+
+  <!-- Contact Us Section -->
+  <div class="footer-column">
+    <h3>Contact Us</h3>
+    <ul>
+      <li><a href="">Shipping</a></li>
+      <li><a href="">Return Policy</a></li>
+      <li><a href="">Refunds</a></li>
+      <li><a href="">FAQ</a></li>
+      <li><a href="">Contact Us</a></li>
+      <li><a href="">Brand Ambassador</a></li>
+    </ul>
+  </div>
+
+  <!-- More Section -->
+  <div class="footer-column">
+    <h3>More</h3>
+    <ul>
+      <li><a href="">Terms Of Service</a></li>
+      <li><a href="">About Us</a></li>
+      <li><a href="">Privacy Policy</a></li>
+    </ul>
+  </div>
+
+  <!-- Follow Us Section -->
+  <div class="footer-column">
+    <h3>Follow Us</h3>
+    <div class="social-icons">
+      <a href="#"><i class="icon-instagram"></i></a>
+      <a href="#"><i class="icon-tiktok"></i></a>
+      <a href="#"><i class="icon-pinterest"></i></a>
+    </div>
+  </div>
+</div> 
 
         <div
           class="footer-block--newsletter{% if settings.animations_reveal_on_scroll %} scroll-trigger animate--slide-in{% endif %}"
