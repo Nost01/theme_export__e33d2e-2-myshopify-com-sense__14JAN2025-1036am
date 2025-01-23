@@ -3540,11 +3540,15 @@ details-disclosure > details {
   background: white;
   margin: 16px auto;
   padding: 8px;
+  max-width: fit-content;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .footer-column {
   display: inline-block;
   zoom: 1; 
   vertical-align: top;
+  
 }
  
