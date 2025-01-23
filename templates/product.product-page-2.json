@@ -38,16 +38,16 @@
           "type": "quantity_selector",
           "settings": {}
         },
-        "description": {
-          "type": "description",
-          "settings": {}
-        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
             "show_dynamic_checkout": false,
             "show_gift_card_recipient": true
           }
+        },
+        "description": {
+          "type": "description",
+          "settings": {}
         }
       },
       "block_order": [
@@ -56,8 +56,8 @@
         "variant_picker",
         "monimo_product_reviews_app_star_rating_top_HCbUc4",
         "quantity_selector",
-        "description",
-        "buy_buttons"
+        "buy_buttons",
+        "description"
       ],
       "settings": {
         "enable_sticky_info": true,
