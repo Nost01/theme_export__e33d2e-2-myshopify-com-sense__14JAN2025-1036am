@@ -3562,6 +3562,10 @@ details-disclosure > details {
   list-style-type: none;
 }
 
+a:link, a:visited, a:hover, a:active {
+  color: black;
+}
+
 .icon-instagram {
   
 }
