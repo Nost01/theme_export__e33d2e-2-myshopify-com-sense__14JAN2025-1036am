@@ -3506,6 +3506,7 @@ details-disclosure > details {
     width: 200%;
   }
 
+  /*
   .footer-block.grid__item.footer-block--menu.scroll-trigger.animate--slide-in {
     text-align: center;
   }
@@ -3529,7 +3530,7 @@ details-disclosure > details {
 
   .footer-block__heading.inline-richtext {
     font-size: 20px;
-  }
+  } */
   
 .footer-sections {
   background: white;
