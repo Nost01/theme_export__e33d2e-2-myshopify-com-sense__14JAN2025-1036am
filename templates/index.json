@@ -195,7 +195,8 @@
       ],
       "custom_css": [
         "h2 {text-shadow: 5px -1px 5px #000000;}",
-        ".button {box-shadow: 5px 5px 4px #000000;}"
+        ".button {box-shadow: 5px 5px 4px #000000;}",
+        ".button {color: #ffffff"
       ],
       "settings": {
         "image": "shopify://shop_images/pexels-designecologist-1005058.jpg",
